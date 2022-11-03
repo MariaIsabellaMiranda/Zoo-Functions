@@ -2,7 +2,7 @@
 
 <p>Este projeto consiste em desenvolver funções que buscam informações sobre um zoológico servindo para gerenciamento do mesmo.<br>
 Criado para colocar em prática os aprendizados em HOFs, destructuring e manipulação de objetos.<br>
-Obs: Os testes para essa funções foram elaborados pela Trybe, por isso não constam nesse repositório<p>
+Os testes para essas funções foram elaborados pela Trybe, por isso não constam neste repositório<p>
 
 ## Construído com
 
