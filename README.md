@@ -1,16 +1,27 @@
-# 🚧 README em construção 🚧
+# Zoo Functions
 
-<!-- Olá, Tryber!
+<p>Este projeto consiste em desenvolver funções que buscam informações sobre um zoológico servindo para gerenciamento do mesmo.<br>
+Criado para colocar em prática os aprendizados em HOFs, destructuring e manipulação de objetos.<br>
+Obs: Os testes para essa funções foram elaborados pela Trybe, por isso não constam nesse repositório<p>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Construído com
 
-É essencial que você preencha esse documento por conta própria, ok?
+- JavaScript - ES6
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## Como excutar o projeto
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- Clone o projeto para sua máquina local;
+- `cd` no diretório do projeto;
+- Rode `npm install` para instalar as dependências;
 
--->
+## Autor
+
+Maria Isabella Miranda da Silva
+
+Linkedin: [@Maria Isabella](https://www.linkedin.com/in/maria-isabella-miranda/)
+
+Email: ma_isabella.miranda@hotmail.com
+
+## Mostre seu suporte
+
+Me dê uma ⭐️ se você gostou deste projeto!
